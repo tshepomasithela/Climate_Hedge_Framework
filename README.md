@@ -336,21 +336,5 @@ pipeline.setup_data_monitoring(
 3. **Engle, R.F.** et al. (2020). "Hedging climate change news." *The Review of Financial Studies*, 33(3), 1184-1216.
 4. **Giglio, S.** et al. (2021). "Climate finance." *Annual Review of Financial Economics*, 13, 15-36.
 
-## 📄 License
-
-This framework is provided for educational and research purposes. Commercial use requires appropriate licensing agreements.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the contributing guidelines and submit pull requests for improvements.
-
-## 📞 Support
-
-For technical support or questions:
-- Email: support@climateheding.ai
-- Documentation: [docs.climateheding.ai](https://docs.climatehedging.ai)
-- Issues: GitHub Issues tracker
-
----
 
 **Disclaimer**: This framework is for research and educational purposes. Always consult with qualified financial professionals before making investment decisions. Past performance does not guarantee future results.
