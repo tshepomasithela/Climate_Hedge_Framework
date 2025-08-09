@@ -1,0 +1,49 @@
+# Climate Transition Risk Dynamic Hedging Framework
+# Development requirements for contributors
+
+# Include core requirements
+-r requirements-minimal.txt
+
+# Testing & Quality Assurance
+pytest>=7.1.0,<8.0.0
+pytest-cov>=4.0.0,<5.0.0
+pytest-mock>=3.8.0,<4.0.0
+pytest-xdist>=2.5.0,<4.0.0
+coverage>=6.4.0,<8.0.0
+
+# Code Formatting & Linting
+black>=22.6.0,<24.0.0
+flake8>=5.0.0,<7.0.0
+isort>=5.10.0,<6.0.0
+mypy>=0.971,<2.0.0
+pylint>=2.15.0,<4.0.0
+
+# Pre-commit Hooks
+pre-commit>=2.20.0,<4.0.0
+
+# Documentation
+sphinx>=5.1.0,<8.0.0
+sphinx-rtd-theme>=1.0.0,<2.0.0
+sphinx-autodoc-typehints>=1.19.0,<2.0.0
+myst-parser>=0.18.0,<2.0.0
+
+# Jupyter Development
+jupyter>=1.0.0,<2.0.0
+jupyterlab>=3.4.0,<5.0.0
+ipykernel>=6.15.0,<7.0.0
+nbconvert>=6.5.0,<8.0.0
+
+# Performance Profiling
+line-profiler>=4.0.0,<5.0.0
+memory-profiler>=0.60.0,<1.0.0
+py-spy>=0.3.0,<1.0.0
+
+# Additional Development Tools
+ipdb>=0.13.0,<1.0.0
+rich>=12.5.0,<14.0.0
+typer>=0.6.0,<1.0.0
+
+# Build Tools
+build>=0.8.0,<1.0.0
+twine>=4.0.0,<5.0.0
+wheel>=0.37.0,<1.0.0
